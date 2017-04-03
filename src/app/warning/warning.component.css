@@ -1,0 +1,16 @@
+p {
+  background-color: #f08080;
+  border: 1px solid Maroon;
+  padding: 18px 10px;
+  opacity: 1;
+  transition: opacity 1.25s;
+}
+i {
+  padding-top: 3px;
+  padding-right: 3px;
+  color: #595959;
+  cursor: pointer;
+}
+i:hover {
+  color: #1a1a1a;
+}
